@@ -36,7 +36,7 @@ By default, it will:
 - Save images in the `image/` folder
 - Output a new CSV called `twitter_data_with_images.csv` with a `local_image_path` column
 
-## 🛠️ Customization
+## Customization
 
 You can modify the script parameters:
 
@@ -56,7 +56,7 @@ download_images_and_update_csv(
 - **Images**: Downloaded to the `output_folder` you specify.
 - **CSV**: A new CSV file with the added `local_image_path` column.
 
-## 🔍 Example
+## Example
 
 Input CSV:
 
@@ -70,10 +70,10 @@ Output CSV:
 |------------|-------------------------|--------------------------------------------------|
 | 12345      | http://example.com/1.jpg | https://github.com/your_repo/image/12345.jpg    |
 
-## 📄 License
+## License
 
 MIT License
 
 ---
 
-*Created by [Ehsaneddin jalilian ]*
+*Created by [Ehsaneddin jalilian : ehsaneddin.jalilian@it-u.at ]*
